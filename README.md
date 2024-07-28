@@ -47,9 +47,9 @@ EFI HACKINTOSH// RYZEN 5600G B550 M AUROS ELITE RX6600 8GB
 ## :x: Not working:
              
 ❌ Não funciona:
-Wi-fi, Bluetooth e AirDrop não estão funcionando, uma vez que eu ainda não tenho uma placa Wi-fi nativa e minha placa-mãe não tem um. Atualmente usando com rede com fio na minha porta ethernet
+ AirDrop não estão funcionando, uso uma placa wifi intel que pelo visto não funciona o airdrop.
 
-Todos os recursos estão funcionando, apenas adicionado uma placa Fenvi FV-HB1200. Agora temos Wi-Fi, Bluetooth (usb mapeado), AirDrop e outros.
+Todos os recursos estão funcionando, apenas adicionado uma placa Fenvi FV-HB1200. Agora temos Wi-Fi, Bluetooth (usb mapeado) e outros.
 
 
 ## :closed_lock_with_key: SMBIOS
